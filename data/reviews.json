@@ -1,0 +1,68 @@
+[
+  {
+    "id": "rev-1",
+    "productId": "saree-kanchi-01",
+    "userName": "Deepika Sundaram",
+    "userCity": "Chennai, Tamil Nadu",
+    "rating": 5,
+    "title": "Breathtaking bridal silk! Exactly like heirloom Kanchi",
+    "comment": "I ordered this for my sister's wedding muhurtham. The luster of the zari and the weight of the silk are pure perfection. The Silk Mark QR code was verified on the Silk Board portal immediately. The Korvai joinery is impeccable!",
+    "verifiedPurchase": true,
+    "date": "2026-03-10"
+  },
+  {
+    "id": "rev-2",
+    "productId": "saree-kanchi-01",
+    "userName": "Ritu Varma",
+    "userCity": "Hyderabad, Telangana",
+    "rating": 5,
+    "title": "Luxurious packaging and rapid delivery",
+    "comment": "Arrived within 3 days in a regal maroon velvet keepsake box with muslin wrap. The crimson color is divine and the zari has a rich matte antique glow. Felt like a queen wearing it.",
+    "verifiedPurchase": true,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "rev-3",
+    "productId": "saree-banarasi-01",
+    "userName": "Shraddha Tripathi",
+    "userCity": "Varanasi / Delhi",
+    "rating": 5,
+    "title": "Authentic Kadwa weave with no loose threads",
+    "comment": "Being from UP, I can immediately tell a powerloom knockoff from an authentic Kadwa handloom. SareeHub delivers 100% genuine Kadwa. The backside is totally neat with zero scratchy threads. Truly royal!",
+    "verifiedPurchase": true,
+    "date": "2026-03-22"
+  },
+  {
+    "id": "rev-4",
+    "productId": "saree-paithani-01",
+    "userName": "Snehal Kulkarni",
+    "userCity": "Pune, Maharashtra",
+    "rating": 5,
+    "title": "Magnificent peacock pallu! Real Yeola treasure",
+    "comment": "The peacock tapestry on the pallu is so intricate it looks like painting with silk threads. Wore it for Gudi Padwa and received endless compliments from all relatives.",
+    "verifiedPurchase": true,
+    "date": "2026-04-02"
+  },
+  {
+    "id": "rev-5",
+    "productId": "saree-mysore-01",
+    "userName": "Kavitha Hegde",
+    "userCity": "Bengaluru, Karnataka",
+    "rating": 5,
+    "title": "Flows like butter! Real 24K gold zari hallmark",
+    "comment": "Mysore silk is all about that unmistakable buttery fall and weightless luxury. SareeHub's quality matches KSIC standards. Extremely comfortable to wear through an entire 8-hour reception.",
+    "verifiedPurchase": true,
+    "date": "2026-04-10"
+  },
+  {
+    "id": "rev-6",
+    "productId": "saree-chanderi-01",
+    "userName": "Meera Saxena",
+    "userCity": "Bhopal, Madhya Pradesh",
+    "rating": 5,
+    "title": "Ethereal translucent weave, feels so light",
+    "comment": "The ivory and gold combination is so subtle and aristocratic. Wore it with pearl jewelry for a day wedding and it was pure elegance.",
+    "verifiedPurchase": true,
+    "date": "2026-04-15"
+  }
+]

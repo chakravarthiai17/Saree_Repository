@@ -1,0 +1,42 @@
+[
+  {
+    "id": "usr-admin-1",
+    "name": "SareeHub Admin",
+    "email": "admin@sareehub.com",
+    "phone": "+91 74061 97088",
+    "role": "admin",
+    "savedAddresses": [
+      {
+        "fullName": "SareeHub Flagship Boutique",
+        "phone": "+91 74061 97088",
+        "email": "admin@sareehub.com",
+        "streetAddress": "Plot 42, Heritage Weavers Lane, Jubilee Hills",
+        "landmark": "Near Silk Board",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "pincode": "500033"
+      }
+    ],
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "usr-cust-1",
+    "name": "Ananya Sharma",
+    "email": "ananya@example.com",
+    "phone": "+91 91234 56789",
+    "role": "customer",
+    "savedAddresses": [
+      {
+        "fullName": "Ananya Sharma",
+        "phone": "+91 91234 56789",
+        "email": "ananya@example.com",
+        "streetAddress": "A-402, Royal Palms Residency, Indiranagar 100ft Road",
+        "landmark": "Opposite Metro Station",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560038"
+      }
+    ],
+    "createdAt": "2026-02-15T10:30:00Z"
+  }
+]

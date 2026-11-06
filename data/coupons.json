@@ -1,0 +1,37 @@
+[
+  {
+    "code": "UTSAV10",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "minOrderValue": 3999,
+    "maxDiscount": 2500,
+    "description": "10% OFF on all festive & wedding handloom collections above ₹3,999",
+    "active": true
+  },
+  {
+    "code": "BRIDAL20",
+    "discountType": "percentage",
+    "discountValue": 20,
+    "minOrderValue": 14999,
+    "maxDiscount": 6000,
+    "description": "20% OFF on luxury Bridal Kanchipuram & Banarasi silks above ₹14,999",
+    "active": true
+  },
+  {
+    "code": "ROYAL500",
+    "discountType": "fixed",
+    "discountValue": 500,
+    "minOrderValue": 2999,
+    "description": "Flat ₹500 OFF on your first royal purchase above ₹2,999",
+    "active": true
+  },
+  {
+    "code": "HANDLOOM15",
+    "discountType": "percentage",
+    "discountValue": 15,
+    "minOrderValue": 5999,
+    "maxDiscount": 3000,
+    "description": "15% OFF celebrating Indian artisan handlooms above ₹5,999",
+    "active": true
+  }
+]

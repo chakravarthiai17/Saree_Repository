@@ -1,0 +1,1199 @@
+[
+  {
+    "id": "saree-kanchi-01",
+    "name": "Kanchipuram Pure Silk Crimson & Pure Gold Zari Saree",
+    "slug": "kanchipuram-pure-silk-crimson-gold-zari",
+    "category": "Kanchipuram Silk Sarees",
+    "state": "Tamil Nadu",
+    "fabric": "Pure Mulberry Silk",
+    "color": "Crimson Red",
+    "originalPrice": 24999,
+    "discountedPrice": 18999,
+    "discountPercentage": 24,
+    "rating": 4.9,
+    "reviewCount": 84,
+    "stock": 8,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "isBridal": true,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "An imperial bridal Kanchipuram woven by master weavers with three-ply twisted pure mulberry silk and authentic silver-gilt gold zari. The body radiates a deep auspicious crimson embellished with delicate coin (kaasu) and mango (manga) buttis, cascading into an opulent contrast pallu featuring royal yali and temple gopuram motifs.",
+    "highlights": [
+      "Certified Silk Mark 100% Pure Natural Silk",
+      "Authentic Korvai interlocking weave technique",
+      "Rich brocade pure gold zari heavy bridal pallu",
+      "Contrasting emerald green unstitched blouse piece included",
+      "Woven in Kanchipuram, Tamil Nadu"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Matching Contrast Silk with Zari Border",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Tested Silver-Gilt Pure Gold Zari",
+      "weaveTechnique": "Traditional Korvai Handloom",
+      "occasion": [
+        "Bridal",
+        "Muhurtham",
+        "Festive",
+        "Wedding Reception"
+      ],
+      "washCare": "Dry Clean Only. Store wrapped in pure muslin cloth.",
+      "certification": "Silk Mark India Certified"
+    },
+    "createdAt": "2026-01-10T08:00:00Z"
+  },
+  {
+    "id": "saree-banarasi-01",
+    "name": "Royal Banarasi Katan Silk Ruby Floral Jaal Saree",
+    "slug": "royal-banarasi-katan-silk-ruby-floral-jaal",
+    "category": "Banarasi Sarees",
+    "state": "Uttar Pradesh",
+    "fabric": "Katan Pure Silk",
+    "color": "Ruby Red",
+    "originalPrice": 22500,
+    "discountedPrice": 16499,
+    "discountPercentage": 27,
+    "rating": 4.8,
+    "reviewCount": 62,
+    "stock": 12,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isTrending": true,
+    "isBridal": true,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Centuries of Awadh and Varanasi artistry come alive in this regal Katan pure silk saree. Woven over 28 days on pit looms, it exhibits an intricate Kadwa floral jaal with fine gold and champagne zari floral vines that feel smooth against the skin.",
+    "highlights": [
+      "Authentic Kadwa handloom technique with zero floats",
+      "Dense Mughal floral jaal with meenakari touches",
+      "Lustrous heavy katan pure silk texture",
+      "Traditional Konia corner mango motifs on the pallu",
+      "Crafted in Varanasi, Uttar Pradesh"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Tone-on-tone Ruby Red with Brocade Border",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Intricate Gold & Silver Brocade Zari",
+      "weaveTechnique": "Pit Loom Kadwa Handloom",
+      "occasion": [
+        "Wedding",
+        "Reception",
+        "Grand Celebrations",
+        "Diwali"
+      ],
+      "washCare": "Dry Clean Only",
+      "certification": "Silk Mark India & Craftmark Certified"
+    },
+    "createdAt": "2026-01-14T09:30:00Z"
+  },
+  {
+    "id": "saree-paithani-01",
+    "name": "Maharashtrian Royal Paithani Peacock Border Silk Saree",
+    "slug": "maharashtrian-royal-paithani-peacock-border-silk",
+    "category": "Paithani Sarees",
+    "state": "Maharashtra",
+    "fabric": "Pure Silk",
+    "color": "Bottle Green & Rani Pink",
+    "originalPrice": 28999,
+    "discountedPrice": 21999,
+    "discountPercentage": 24,
+    "rating": 5,
+    "reviewCount": 45,
+    "stock": 5,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "isBridal": true,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Known as the Queen of Maharashtrian heirlooms, this authentic Yeola Paithani is woven in resplendent bottle green accented with an oblique square (narali) border. The pallu is a tapestry masterpiece featuring kaleidoscope Morbangadi (peacocks nestled within bangles) hand-interlocked with rich golden weft.",
+    "highlights": [
+      "Tapestry woven pallu with vibrant multi-colored silk threads",
+      "Traditional Morbangadi and Asavali handwork",
+      "Pure silver gold electroplated zari borders",
+      "Reversible border detailing without raw floats on the reverse",
+      "Woven in Yeola, Maharashtra"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Contrast Rani Pink Silk with Peacock Zari Border",
+      "blouseLength": "0.85 Metre",
+      "blouseIncluded": true,
+      "zariType": "Pure Gold Tested Zari",
+      "weaveTechnique": "Manual Tapestry Interlocking Handloom",
+      "occasion": [
+        "Bridal",
+        "Ganesh Utsav",
+        "Traditional Pujas",
+        "Receptions"
+      ],
+      "washCare": "Dry Clean Only",
+      "certification": "Silk Mark India Certified"
+    },
+    "createdAt": "2026-01-20T11:00:00Z"
+  },
+  {
+    "id": "saree-mysore-01",
+    "name": "Mysore Royal Crepe Silk Navy Blue & Pure Gold Zari Saree",
+    "slug": "mysore-royal-crepe-silk-navy-blue-gold-zari",
+    "category": "Mysore Silk Sarees",
+    "state": "Karnataka",
+    "fabric": "Pure Crepe Silk",
+    "color": "Royal Navy Blue",
+    "originalPrice": 18500,
+    "discountedPrice": 14200,
+    "discountPercentage": 23,
+    "rating": 4.9,
+    "reviewCount": 78,
+    "stock": 14,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "isBridal": false,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Crafted with 100% pure silk yarns and 0.65% pure silver with 24K gold plating, this Mysore crepe silk saree offers a buttery fluid drape that hugs the body gracefully. Adorned with a classic kasuti-inspired border and delicate zari buttis.",
+    "highlights": [
+      "Signature buttery-soft 100% natural crepe silk",
+      "24-Karat Gold electroplated border with hallmark authenticity",
+      "Extremely lightweight yet majestically rich",
+      "Registered GI tag product from Karnataka",
+      "Direct heritage craft preservation"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Matching Navy Crepe Silk with Zari Edge",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "24K Gold Electroplated Pure Silver Zari",
+      "weaveTechnique": "Heritage Crepe Powerloom & Hand Finishing",
+      "occasion": [
+        "Festive",
+        "Formal Evenings",
+        "Cocktail",
+        "Weddings"
+      ],
+      "washCare": "Dry Clean Only",
+      "certification": "Government GI Tagged & Silk Mark Certified"
+    },
+    "createdAt": "2026-01-25T14:15:00Z"
+  },
+  {
+    "id": "saree-pochampally-01",
+    "name": "Pochampally Double Ikat Geometric Silk Sapphire Blue Saree",
+    "slug": "pochampally-double-ikat-geometric-silk-sapphire",
+    "category": "Pochampally Ikat Sarees",
+    "state": "Telangana",
+    "fabric": "Pure Handloom Silk",
+    "color": "Sapphire Blue & White",
+    "originalPrice": 15999,
+    "discountedPrice": 11999,
+    "discountPercentage": 25,
+    "rating": 4.8,
+    "reviewCount": 51,
+    "stock": 10,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "isBridal": false,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "An exquisite mathematical symphony woven by award-winning artisans of Bhoodan Pochampally. Both warp and weft silk yarns are meticulously tie-dyed using natural resists to form razor-sharp diamond chevrons and traditional chowkadi motifs with a contrast vermilion zari pallu.",
+    "highlights": [
+      "Certified Double Ikat weave with identical front and back",
+      "Vibrant vegetable-based eco-friendly dyes",
+      "Breathable pure silk suitable for all seasons",
+      "Telangana World Craft Council recognized heritage",
+      "Modern geometric aesthetic grounded in tradition"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Contrast Vermilion Red Silk Blouse",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Fine Tested Golden Zari",
+      "weaveTechnique": "Double Ikat Handloom Weave",
+      "occasion": [
+        "Festivals",
+        "Corporate Ethnic",
+        "Sangeet",
+        "Puja"
+      ],
+      "washCare": "Dry Clean Recommended for the first wash",
+      "certification": "Silk Mark India & GI Tagged"
+    },
+    "createdAt": "2026-02-01T10:00:00Z"
+  },
+  {
+    "id": "saree-gadwal-01",
+    "name": "Gadwal Handloom Sico Mustard Yellow & Temple Border Saree",
+    "slug": "gadwal-handloom-sico-mustard-yellow-temple-border",
+    "category": "Gadwal Sarees",
+    "state": "Telangana",
+    "fabric": "Silk Cotton (Sico) with Pure Silk Border",
+    "color": "Mustard Yellow & Wine",
+    "originalPrice": 13500,
+    "discountedPrice": 9899,
+    "discountPercentage": 27,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "stock": 15,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isTrending": true,
+    "isBridal": false,
+    "isFeatured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Known as the featherweight wonder of Deccan, this Gadwal saree features an airy cotton body interlocked using the heritage Kuttu technique with rich mulberry silk borders and an elaborate zari pallu. Temple kumbha motifs run along the borders in antique silver-gold sheen.",
+    "highlights": [
+      "Authentic Kuttu interlocked border technique",
+      "Cool breathable body with grand silk-zari borders",
+      "Can be folded to fit into a matchbox (legendary Gadwal lightness)",
+      "Traditional temple serrated edge detailing",
+      "Handcrafted in Jogulamba Gadwal, Telangana"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Contrast Wine Pure Silk with Zari",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Heritage Gold Zari",
+      "weaveTechnique": "Kuttu Interlocking Handloom",
+      "occasion": [
+        "Pujas",
+        "Family Gatherings",
+        "Temple Festivals",
+        "Day Weddings"
+      ],
+      "washCare": "Dry Clean Preferred",
+      "certification": "Handloom Mark & Silk Mark Certified"
+    },
+    "createdAt": "2026-02-05T12:00:00Z"
+  },
+  {
+    "id": "saree-uppada-01",
+    "name": "Uppada Pure Jamdani Silk Powder Blue Gold Floral Saree",
+    "slug": "uppada-pure-jamdani-silk-powder-blue-gold",
+    "category": "Uppada Sarees",
+    "state": "Andhra Pradesh",
+    "fabric": "Pure Uppada Silk",
+    "color": "Powder Blue & Gold",
+    "originalPrice": 21000,
+    "discountedPrice": 15499,
+    "discountPercentage": 26,
+    "rating": 4.9,
+    "reviewCount": 42,
+    "stock": 7,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "isBridal": true,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Originating from the Godavari coastal village of Uppada, this gossamer Jamdani masterpiece requires two weavers working simultaneously with bamboo shuttles to weave non-structural gold wefts into whisper-light pure silk. The result is sheer poetic royalty.",
+    "highlights": [
+      "World-renowned non-mechanical Jamdani handloom",
+      "Delicate powder blue tone with subtle shimmer",
+      "Extremely soft and featherlight texture",
+      "Intricate floral butas with zero back-side hanging threads",
+      "Crafted in East Godavari, Andhra Pradesh"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Tone-on-tone Powder Blue with Jamdani Border",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Fine Tested Champagne Gold Zari",
+      "weaveTechnique": "Authentic Uppada Jamdani Handloom",
+      "occasion": [
+        "Wedding Receptions",
+        "Engagements",
+        "Cocktails",
+        "Gala Events"
+      ],
+      "washCare": "Dry Clean Only",
+      "certification": "Silk Mark India & Craftmark Certified"
+    },
+    "createdAt": "2026-02-10T15:20:00Z"
+  },
+  {
+    "id": "saree-dharmavaram-01",
+    "name": "Dharmavaram Traditional Bridal Pattu Rani Pink & Gold Saree",
+    "slug": "dharmavaram-traditional-bridal-pattu-rani-pink",
+    "category": "Dharmavaram Sarees",
+    "state": "Andhra Pradesh",
+    "fabric": "Heavy Pure Mulberry Silk",
+    "color": "Rani Pink & Gold",
+    "originalPrice": 19999,
+    "discountedPrice": 14999,
+    "discountPercentage": 25,
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 9,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "isBridal": true,
+    "isFeatured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Celebrated for its broad temple borders and heavy contrast pallu, this Dharmavaram pattu saree is handwoven in deep Rani Pink. Features sacred swan (hamsa) and elephant (gaja) motifs in antique gold zari that bring majestic opulence to South Indian bridal celebrations.",
+    "highlights": [
+      "High-density pure silk with rich drape weight",
+      "Double-sided broad contrast border with gold temple motifs",
+      "Auspicious color palette cherished for muhurthams",
+      "Durable heirloom longevity",
+      "Woven in Dharmavaram, Sri Sathya Sai District"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Contrast Royal Purple Silk with Heavy Zari Work",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Pure Gold Tested Zari",
+      "weaveTechnique": "Traditional Dharmavaram Handloom",
+      "occasion": [
+        "Bridal",
+        "Muhurtham",
+        "Varalakshmi Vratham",
+        "Festive"
+      ],
+      "washCare": "Dry Clean Only",
+      "certification": "Silk Mark India Certified"
+    },
+    "createdAt": "2026-02-12T09:00:00Z"
+  },
+  {
+    "id": "saree-chanderi-01",
+    "name": "Chanderi Handloom Silk Cotton Ivory & Gold Ashrafi Saree",
+    "slug": "chanderi-handloom-silk-cotton-ivory-gold-ashrafi",
+    "category": "Chanderi Sarees",
+    "state": "Madhya Pradesh",
+    "fabric": "Silk Cotton Blend with Zari",
+    "color": "Ivory Cream & Gold",
+    "originalPrice": 8999,
+    "discountedPrice": 6499,
+    "discountPercentage": 28,
+    "rating": 4.8,
+    "reviewCount": 67,
+    "stock": 18,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isTrending": true,
+    "isBridal": false,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Epitome of royal Malwa subtlety, this handcrafted Chanderi saree pairs sheer natural ivory silk with fine cotton yarns. Embellished with classic round coin (ashrafi) buttis and finished with a shimmering gold tissue border that gleams like morning sunlight.",
+    "highlights": [
+      "Sheer translucent texture with aristocratic sheen",
+      "Woven with 20/22 denier mulberry silk and fine 100s count cotton",
+      "Light as a whisper, ideal for warm climates",
+      "Gilded gold zari stripes on the pallu",
+      "Handcrafted in Chanderi, Ashoknagar"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Matching Ivory Silk Cotton with Gold Border",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Metallic Fine Gold Zari",
+      "weaveTechnique": "Chanderi Pit Loom Handloom",
+      "occasion": [
+        "Daytime Celebrations",
+        "Haldi",
+        "Festive",
+        "Elegant Dinners"
+      ],
+      "washCare": "Gentle Dry Clean",
+      "certification": "Craftmark & Handloom Mark Certified"
+    },
+    "createdAt": "2026-02-15T11:45:00Z"
+  },
+  {
+    "id": "saree-patola-01",
+    "name": "Patan Patola Pure Silk Double Ikat Emerald & Crimson Saree",
+    "slug": "patan-patola-pure-silk-double-ikat-emerald-crimson",
+    "category": "Patola Sarees",
+    "state": "Gujarat",
+    "fabric": "Pure Mulberry Silk",
+    "color": "Emerald Green & Crimson",
+    "originalPrice": 42000,
+    "discountedPrice": 32999,
+    "discountPercentage": 21,
+    "rating": 5,
+    "reviewCount": 29,
+    "stock": 3,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isTrending": true,
+    "isBridal": true,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Among the rarest handloom treasures on the planet, this authentic Patan Patola represents months of warp-and-weft tie-dye mastery by certified Salvi master craftspersons. Features the sacred Nari-Kunjar (dancing maiden and royal elephant) motif with pure natural madder and indigo dyes.",
+    "highlights": [
+      "True Double Ikat where design looks identical on both faces",
+      "Colored exclusively using natural heritage herbal dyes",
+      "Heirloom collector's piece that appreciates over generations",
+      "Intricate elephant, parrot, and geometric flower medallions",
+      "Handmade in Patan, North Gujarat"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Contrast Crimson Red Patola Silk Piece",
+      "blouseLength": "0.85 Metre",
+      "blouseIncluded": true,
+      "zariType": "Pure Gold Border Accents",
+      "weaveTechnique": "Double Ikat Handloom on Slanted Loom",
+      "occasion": [
+        "High Royal Weddings",
+        "Bridal Trousseau",
+        "Heritage Ceremonies"
+      ],
+      "washCare": "Strictly Dry Clean. Air dry in shade.",
+      "certification": "Patan Patola GI Certified & Silk Mark"
+    },
+    "createdAt": "2026-02-18T13:00:00Z"
+  },
+  {
+    "id": "saree-sambalpuri-01",
+    "name": "Sambalpuri Baandha Ikat Forest Green & Maroon Silk Saree",
+    "slug": "sambalpuri-baandha-ikat-forest-green-maroon-silk",
+    "category": "Sambalpuri Sarees",
+    "state": "Odisha",
+    "fabric": "Pure Tussar & Mulberry Silk",
+    "color": "Forest Green & Maroon",
+    "originalPrice": 14500,
+    "discountedPrice": 10899,
+    "discountPercentage": 25,
+    "rating": 4.9,
+    "reviewCount": 44,
+    "stock": 11,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isTrending": false,
+    "isBridal": false,
+    "isFeatured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Inspired by Jagannath temple iconography, this Sambalpuri Baandha saree portrays intricate Shankha (conch shell), Chakra (divine disc), and Phula (blossom) motifs tie-dyed manually by Bhulia weavers. Features rich curvilinear bandha wefts and a majestic temple border.",
+    "highlights": [
+      "GI Tagged Baandha tie-and-dye handloom",
+      "Rich rustic luster of handspun organic silk",
+      "Sacred Odisha temple motifs",
+      "Woven thread by thread on hand-operated frame looms",
+      "Crafted in Bargarh & Sambalpur, Odisha"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Contrast Maroon Silk with Ikat Border",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Subtle Gold Zari Accents",
+      "weaveTechnique": "Traditional Baandha Tie-Dye Handloom",
+      "occasion": [
+        "Durga Puja",
+        "Cultural Gatherings",
+        "Festive",
+        "Family Functions"
+      ],
+      "washCare": "Dry Clean Recommended",
+      "certification": "Handloom Mark & Silk Mark Certified"
+    },
+    "createdAt": "2026-02-20T16:10:00Z"
+  },
+  {
+    "id": "saree-tussar-01",
+    "name": "Bhagalpuri Tussar Silk Hand-Painted Madhubani Tree of Life Saree",
+    "slug": "bhagalpuri-tussar-silk-hand-painted-madhubani",
+    "category": "Tussar Silk Sarees",
+    "state": "Bihar",
+    "fabric": "Pure Wild Tussar Silk",
+    "color": "Natural Beige & Multicolour",
+    "originalPrice": 16999,
+    "discountedPrice": 12499,
+    "discountPercentage": 26,
+    "rating": 4.9,
+    "reviewCount": 58,
+    "stock": 8,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isTrending": true,
+    "isBridal": false,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "A wearable work of fine art. Natural golden-textured Bhagalpuri wild tussar silk serves as a canvas for master Mithila artists who hand-paint the Tree of Life, peacock pairs, and celestial lotuses using fine bamboo nibs and natural mineral dyes.",
+    "highlights": [
+      "100% Hand-painted authentic Madhubani / Mithila artwork",
+      "Organic wild Tussar silk with rich natural thermal breathability",
+      "Each piece is individually signed by the artisan",
+      "Zero printed shortcuts—14 days of direct hand-painting",
+      "Handcrafted in Bhagalpur & Madhubani, Bihar"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Natural Tussar Silk with Hand-Painted Sleeve Artwork",
+      "blouseLength": "0.85 Metre",
+      "blouseIncluded": true,
+      "zariType": "Natural Silk Texture (No Zari)",
+      "weaveTechnique": "Handspun Wild Silk & Hand Painting",
+      "occasion": [
+        "Art Exhibitions",
+        "Formal Dinners",
+        "Festivals",
+        "Special Celebrations"
+      ],
+      "washCare": "Dry Clean Only",
+      "certification": "Silk Mark India Certified"
+    },
+    "createdAt": "2026-02-22T10:30:00Z"
+  },
+  {
+    "id": "saree-kota-01",
+    "name": "Kota Doria Pure Cotton Sunshine Yellow Zari Khat Saree",
+    "slug": "kota-doria-pure-cotton-sunshine-yellow-zari-khat",
+    "category": "Kota Doria Sarees",
+    "state": "Rajasthan",
+    "fabric": "Pure Handloom Cotton with Zari Khats",
+    "color": "Sunshine Yellow",
+    "originalPrice": 6499,
+    "discountedPrice": 4699,
+    "discountPercentage": 28,
+    "rating": 4.7,
+    "reviewCount": 49,
+    "stock": 20,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "isBridal": false,
+    "isFeatured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Nothing compares to the refreshing breathability of an authentic Kota Doria in peak Indian summers. Handwoven with square check grids (khats) interlaced with fine golden zari threads and accented with floral gota patti border work from Jaipur.",
+    "highlights": [
+      "Ultra-breathable open-weave Khat structure",
+      "Hand-finished with authentic gota patti lace border",
+      "Bright radiant haldi yellow hue",
+      "Featherlight weight of under 350 grams",
+      "Woven in Kaithun, Kota, Rajasthan"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Matching Yellow Cotton with Gota Patti Trim",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Fine Golden Thread Khats",
+      "weaveTechnique": "Traditional Kota Doria Pit Loom",
+      "occasion": [
+        "Haldi Ceremony",
+        "Summer Weddings",
+        "Brunch",
+        "Pujas"
+      ],
+      "washCare": "Hand wash with mild detergent or Dry Clean",
+      "certification": "Handloom Mark Certified"
+    },
+    "createdAt": "2026-02-25T14:00:00Z"
+  },
+  {
+    "id": "saree-chikan-01",
+    "name": "Lucknowi Chikankari Hand Embroidered Pastel Peach Georgette Saree",
+    "slug": "lucknowi-chikankari-hand-embroidered-pastel-peach-georgette",
+    "category": "Chikankari Sarees",
+    "state": "Uttar Pradesh",
+    "fabric": "Pure Viscose Georgette",
+    "color": "Pastel Peach",
+    "originalPrice": 18500,
+    "discountedPrice": 13999,
+    "discountPercentage": 24,
+    "rating": 4.9,
+    "reviewCount": 73,
+    "stock": 12,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isTrending": true,
+    "isBridal": false,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "The poetic epitome of royal Awadh refinement. Hand-embroidered over 40 days by women artisans of Lucknow using intricate Bakhiya (shadow work), Phanda (millet knots), and delicate Mukaish metallic badla highlights on whisper-soft flowy pure georgette.",
+    "highlights": [
+      "Masterful 32-stitch hand Chikankari embroidery",
+      "Glistening handmade Mukaish (badla) metallic dots",
+      "Flowing, body-contouring georgette silhouette",
+      "Elegant pastel peach tone suitable for day & night",
+      "Artisanally crafted in Lucknow, Uttar Pradesh"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Matching Peach Georgette with Sleeve & Back Embroidery",
+      "blouseLength": "0.9 Metre",
+      "blouseIncluded": true,
+      "zariType": "Mukaish Badla Metallic Handwork",
+      "weaveTechnique": "Pure Hand Embroidery on Power Woven Georgette",
+      "occasion": [
+        "Cocktail Reception",
+        "Sangeet",
+        "Festivals",
+        "Intimate Soirees"
+      ],
+      "washCare": "Dry Clean Recommended",
+      "certification": "GI Tagged Lucknow Chikankari"
+    },
+    "createdAt": "2026-02-28T11:20:00Z"
+  },
+  {
+    "id": "saree-linen-01",
+    "name": "Bengal Handloom Organic Linen Dusty Rose Silver Zari Saree",
+    "slug": "bengal-handloom-organic-linen-dusty-rose-silver-zari",
+    "category": "Linen Sarees",
+    "state": "West Bengal",
+    "fabric": "100% Organic European Flax Linen (100 Count)",
+    "color": "Dusty Rose Pink",
+    "originalPrice": 7500,
+    "discountedPrice": 5299,
+    "discountPercentage": 29,
+    "rating": 4.8,
+    "reviewCount": 61,
+    "stock": 16,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "isBridal": false,
+    "isFeatured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Contemporary sustainability meets timeless Indian grace. Woven with 100-count premium French flax linen yarn in Phulia, West Bengal, it boasts a sophisticated silver metallic selvedge border and a minimalist striped palla that drapes with modern poise.",
+    "highlights": [
+      "100 Count Pure Flax Linen with natural thermoregulation",
+      "Sleek contemporary silver zari selvedge borders",
+      "Hand-twisted playful tassels on the pallu",
+      "Softens with every wash while retaining crisp texture",
+      "Handcrafted in Phulia, Nadia, West Bengal"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Matching Dusty Rose Linen with Silver Border",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Metallic Silver Zari Selvedge",
+      "weaveTechnique": "Handloom Weave on Traditional Fly Shuttle Loom",
+      "occasion": [
+        "Workwear",
+        "Contemporary Ethnic",
+        "Art Openings",
+        "Brunches"
+      ],
+      "washCare": "Hand wash with cold water or gentle machine wash",
+      "certification": "Eco-Certified Organic Textile"
+    },
+    "createdAt": "2026-03-02T15:00:00Z"
+  },
+  {
+    "id": "saree-cotton-01",
+    "name": "Bengal Tant Handloom Mulmul Cotton Indigo Floral Saree",
+    "slug": "bengal-tant-handloom-mulmul-cotton-indigo",
+    "category": "Cotton Sarees",
+    "state": "West Bengal",
+    "fabric": "100% Pure Fine Count Cotton",
+    "color": "Indigo Blue & White",
+    "originalPrice": 4200,
+    "discountedPrice": 2999,
+    "discountPercentage": 29,
+    "rating": 4.7,
+    "reviewCount": 92,
+    "stock": 25,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "isBridal": false,
+    "isFeatured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "The quintessential Bengal Tant saree that has dressed generations of Indian women in effortless dignity. Made from 100-count combed cotton, it features delicate paisley kalka motifs woven along the border and a whisper-light texture designed to keep you cool all day.",
+    "highlights": [
+      "100% Natural breathable Bengal cotton",
+      "Traditional Kalka paisley handloom border",
+      "Stays crisp all day with light starch or soft with wash",
+      "Vibrant vegetable-based indigo dye",
+      "Woven in Shantipur, West Bengal"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Tone-on-tone Indigo Cotton with Printed Border",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Cotton Thread Weaving (No Zari)",
+      "weaveTechnique": "Bengal Tant Handloom",
+      "occasion": [
+        "Daily Office",
+        "Pujas",
+        "Casual Outings",
+        "Summer Gatherings"
+      ],
+      "washCare": "Gentle hand wash in cold water with mild liquid soap",
+      "certification": "Handloom Mark Certified"
+    },
+    "createdAt": "2026-03-05T08:30:00Z"
+  },
+  {
+    "id": "saree-organza-01",
+    "name": "Hand-Painted Floral Sheer Organza Silk Mint Green Saree",
+    "slug": "hand-painted-floral-sheer-organza-silk-mint-green",
+    "category": "Organza Sarees",
+    "state": "Rajasthan",
+    "fabric": "Pure Silk Organza",
+    "color": "Mint Green & Blush Pink",
+    "originalPrice": 12999,
+    "discountedPrice": 9499,
+    "discountPercentage": 27,
+    "rating": 4.9,
+    "reviewCount": 54,
+    "stock": 10,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "isBridal": false,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Sheer dreaminess redefined. Crisp, translucent pure silk organza decorated with delicate watercolor peonies and wild roses hand-painted by master Jaipuri artisans. Finished with a scalloped cutwork border hand-embroidered with micro-sequins and pearl beads.",
+    "highlights": [
+      "Airy structured organza that holds voluminous pleats",
+      "Bespoke hand-painted botanical artwork",
+      "Delicate hand-embroidered cutwork scalloped borders",
+      "Photogenic pastel aesthetic favored for modern soirees",
+      "Handcrafted in Jaipur, Rajasthan"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Matching Mint Green Heavy Raw Silk with Embroidered Neckline",
+      "blouseLength": "0.85 Metre",
+      "blouseIncluded": true,
+      "zariType": "Pearl & Cutdana Beadwork Border",
+      "weaveTechnique": "Pure Silk Organza with Artisan Hand-Painting",
+      "occasion": [
+        "Day Wedding",
+        "Cocktail",
+        "Bridal Shower",
+        "Mehendi"
+      ],
+      "washCare": "Dry Clean Strictly",
+      "certification": "Silk Mark India Certified"
+    },
+    "createdAt": "2026-03-08T12:00:00Z"
+  },
+  {
+    "id": "saree-georgette-01",
+    "name": "Kutch Bandhani Pure Georgette Crimson Red & Gold Zari Saree",
+    "slug": "kutch-bandhani-pure-georgette-crimson-red-gold",
+    "category": "Georgette Sarees",
+    "state": "Gujarat",
+    "fabric": "Pure Crepe Georgette",
+    "color": "Crimson Red & Mustard",
+    "originalPrice": 17500,
+    "discountedPrice": 12899,
+    "discountPercentage": 26,
+    "rating": 4.8,
+    "reviewCount": 47,
+    "stock": 9,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "isBridal": true,
+    "isFeatured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Featuring thousands of microscopic hand-knotted Rai Bandhej dots tied with cotton threads by Khatri women in Bhuj, this pure georgette saree offers rich stretch-and-rebound comfort. The borders are framed with Banarasi gold zari floral vines.",
+    "highlights": [
+      "Traditional micro Rai Bandhej knotting technique",
+      "Luxurious 60gm pure crepe georgette drape",
+      "Woven Banarasi gold zari borders and pallu",
+      "Vibrant auspicious bridal color palette",
+      "Crafted in Bhuj, Kutch, Gujarat"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Tone-on-tone Red Georgette with Bandhani Sleeves",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Banarasi Gold Zari Brocade",
+      "weaveTechnique": "Hand Tie-Dye (Bandhej) on Woven Georgette",
+      "occasion": [
+        "Karwa Chauth",
+        "Weddings",
+        "Navratri",
+        "Diwali"
+      ],
+      "washCare": "Dry Clean Only. Roll press recommended.",
+      "certification": "Silk Mark & Craftmark Certified"
+    },
+    "createdAt": "2026-03-12T14:30:00Z"
+  },
+  {
+    "id": "saree-chiffon-01",
+    "name": "Royal Leheriya Pure Chiffon Sunset Ombre Coral Saree",
+    "slug": "royal-leheriya-pure-chiffon-sunset-ombre-coral",
+    "category": "Chiffon Sarees",
+    "state": "Rajasthan",
+    "fabric": "100% Pure Silk Chiffon",
+    "color": "Sunset Coral & Blush",
+    "originalPrice": 11999,
+    "discountedPrice": 8499,
+    "discountPercentage": 29,
+    "rating": 4.9,
+    "reviewCount": 63,
+    "stock": 13,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "isBridal": false,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Evoking the royal legacy of Maharani Gayatri Devi of Jaipur, this whisper-weight pure chiffon saree features the diagonal wave (mothda leheriya) tie-dye pattern in sunset coral, amber, and blush. Edged with a delicate pearl bead fringe and micro-gota trim.",
+    "highlights": [
+      "100% Pure natural silk chiffon with gossamer movement",
+      "Traditional tie-dye Leheriya wave pattern",
+      "Featherlight weight for effortless all-day draping",
+      "Finished with delicate hand-knotted pearl border",
+      "Crafted in Jaipur, Rajasthan"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Matching Coral Raw Silk with Gota Trim",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Fine Gota Patti & Pearl Edging",
+      "weaveTechnique": "Hand Tie-Dye on Pure Silk Chiffon",
+      "occasion": [
+        "Teej",
+        "Day Weddings",
+        "Cocktails",
+        "Sangeet"
+      ],
+      "washCare": "Dry Clean Recommended",
+      "certification": "Silk Mark India Certified"
+    },
+    "createdAt": "2026-03-15T09:00:00Z"
+  },
+  {
+    "id": "saree-designer-01",
+    "name": "Couture Metallic Draped Sequin Satin Midnight Wine Saree",
+    "slug": "couture-metallic-draped-sequin-satin-midnight-wine",
+    "category": "Designer Sarees",
+    "state": "Maharashtra",
+    "fabric": "Heavy Korean Satin Crepe",
+    "color": "Midnight Wine",
+    "originalPrice": 19999,
+    "discountedPrice": 14499,
+    "discountPercentage": 28,
+    "rating": 4.9,
+    "reviewCount": 38,
+    "stock": 6,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isTrending": true,
+    "isBridal": false,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Designed for the modern cosmopolitan woman, this showstopper merges high-fashion runway draping with ethnic opulence. The deep wine satin cascades like liquid silk, adorned with micro champagne sequins that catch the spotlight at evening galas.",
+    "highlights": [
+      "Pre-pleated fluid drape with flattering modern cut",
+      "Micro-sequin embellishments with zero skin prickle",
+      "Liquid sheen premium satin fabric",
+      "Includes a designer corset-style blouse piece",
+      "Designed in Mumbai couture atelier"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Designer Padded Bustier Blouse Fabric with Sequin Mesh",
+      "blouseLength": "1.0 Metre",
+      "blouseIncluded": true,
+      "zariType": "Champagne Micro-Sequins & Cutdana",
+      "weaveTechnique": "Contemporary Couture Hand-Embellished",
+      "occasion": [
+        "Cocktail Reception",
+        "Sangeet Night",
+        "Bollywood Soiree",
+        "Red Carpet"
+      ],
+      "washCare": "Dry Clean Only",
+      "certification": "Designer Authenticity Guarantee"
+    },
+    "createdAt": "2026-03-20T17:00:00Z"
+  },
+  {
+    "id": "saree-bridal-01",
+    "name": "Heirloom Grand Bridal Kanjeevaram Vermilion & Real Zari Saree",
+    "slug": "heirloom-grand-bridal-kanjeevaram-vermilion-real-zari",
+    "category": "Bridal Sarees",
+    "state": "Tamil Nadu",
+    "fabric": "100% Pure Mulberry Silk (Double Warp)",
+    "color": "Sindoor Vermilion Red & Antique Gold",
+    "originalPrice": 48000,
+    "discountedPrice": 36999,
+    "discountPercentage": 23,
+    "rating": 5,
+    "reviewCount": 96,
+    "stock": 4,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "isBridal": true,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "The crown jewel of Indian bridal fashion. Crafted over two months using heavy double-warp mulberry silk and genuine silver thread dipped in pure 24K liquid gold. The body displays intricate deer, peacock, and floral medallions culminating in a grand 1.2-metre temple pallu.",
+    "highlights": [
+      "Double warp pure silk weighing over 950 grams",
+      "Hallmarked pure silver zari dipped in 24K gold",
+      "Traditional Korvai interlocking border with zero compromises",
+      "Includes Certificate of Authenticity & Silk Mark registration",
+      "Crafted by National Award-winning weavers in Kanchipuram"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Heavy Pure Silk Brocade with Matching Bridal Pallu Zari",
+      "blouseLength": "0.9 Metre",
+      "blouseIncluded": true,
+      "zariType": "Pure Silver Gold Zari (Tested & Hallmarked)",
+      "weaveTechnique": "Authentic Korvai Pit Loom Handloom",
+      "occasion": [
+        "Bridal Muhurtham",
+        "Pheras",
+        "Wedding Ceremony"
+      ],
+      "washCare": "Dry Clean Only. Wrapped in muslin cloth, keep silica gel.",
+      "certification": "Government Certified Silk Mark & GI Tag"
+    },
+    "createdAt": "2026-03-25T10:00:00Z"
+  },
+  {
+    "id": "saree-kasavu-01",
+    "name": "Kerala Kasavu Pure Handloom Ivory & 24K Gold Zari Saree",
+    "slug": "kerala-kasavu-pure-handloom-ivory-gold-zari",
+    "category": "Party Wear Sarees",
+    "state": "Kerala",
+    "fabric": "Pure Natural Kora Cotton & Fine Silk",
+    "color": "Off-White Ivory & Gold",
+    "originalPrice": 8500,
+    "discountedPrice": 5999,
+    "discountPercentage": 29,
+    "rating": 4.8,
+    "reviewCount": 55,
+    "stock": 17,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "isBridal": false,
+    "isFeatured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "The serene soul of God's Own Country. Handwoven in Balaramapuram using unbleached organic kora cotton yarns with a 3-inch pure gold kasavu border. Graceful, minimalist, and deeply rooted in South Indian festive traditions.",
+    "highlights": [
+      "Balaramapuram GI-tagged handloom weave",
+      "Unbleached organic cotton skin-friendly body",
+      "Shimmering pure gold kasavu zari borders",
+      "Essential festive attire for Onam, Vishu & temple rituals",
+      "Direct weaver co-operative procurement"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Matching Ivory Cotton with 3-inch Kasavu Zari Border",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "Pure Gold Kasavu Zari",
+      "weaveTechnique": "Traditional Pitloom Handloom",
+      "occasion": [
+        "Onam",
+        "Vishu",
+        "Temple Pujas",
+        "Traditional Gatherings"
+      ],
+      "washCare": "Hand wash with cold water and mild baby shampoo",
+      "certification": "Kerala Handloom Mark & GI Tagged"
+    },
+    "createdAt": "2026-03-28T11:00:00Z"
+  },
+  {
+    "id": "saree-muga-01",
+    "name": "Assam Muga Golden Silk Handwoven Traditional Jurpi Saree",
+    "slug": "assam-muga-golden-silk-handwoven-jurpi",
+    "category": "Bridal Sarees",
+    "state": "Assam",
+    "fabric": "100% Pure Assam Muga Silk",
+    "color": "Natural Golden Amber",
+    "originalPrice": 38000,
+    "discountedPrice": 29499,
+    "discountPercentage": 22,
+    "rating": 5,
+    "reviewCount": 31,
+    "stock": 4,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "isBridal": true,
+    "isFeatured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Found only in the Brahmaputra valley of Assam, Muga silk is naturally golden and outlasts the wearer, growing more lustrous with every wash. Woven by Sualkuchi weavers with traditional Kingkhap lion motifs and colorful red-black meenakari accents.",
+    "highlights": [
+      "Naturally golden silk with no artificial colorants",
+      "Durability that lasts over 50 years as a family heirloom",
+      "GI-tagged Sualkuchi handloom heritage",
+      "Kingkhap royal Ahom dynasty motifs",
+      "Handcrafted in Kamrup, Assam"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Pure Natural Muga Silk with Kingkhap Border",
+      "blouseLength": "0.85 Metre",
+      "blouseIncluded": true,
+      "zariType": "Natural Golden Silk Sheen & Meenakari Threads",
+      "weaveTechnique": "Traditional Assam Throw-Shuttle Loom",
+      "occasion": [
+        "Assamese Wedding",
+        "Bihu Celebrations",
+        "Heirloom Gala"
+      ],
+      "washCare": "Dry clean recommended. Can be hand washed in reetha water.",
+      "certification": "Silk Mark India & Assam GI Tagged"
+    },
+    "createdAt": "2026-04-01T14:00:00Z"
+  },
+  {
+    "id": "saree-daily-01",
+    "name": "Ajrakh Hand Block Printed Mulmul Modal Cotton Daily Saree",
+    "slug": "ajrakh-hand-block-printed-mulmul-modal-cotton",
+    "category": "Daily Wear Sarees",
+    "state": "Gujarat",
+    "fabric": "Pure Soft Mulmul Cotton Modal",
+    "color": "Indigo & Madder Red",
+    "originalPrice": 3999,
+    "discountedPrice": 2499,
+    "discountPercentage": 38,
+    "rating": 4.8,
+    "reviewCount": 115,
+    "stock": 30,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "isBridal": false,
+    "isFeatured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Buttery soft and breathable, this everyday classic undergoes 16 stages of traditional Ajrakh resist block printing using natural indigo, pomegranate peel, and madder dyes in Dhamadka. Feels feather-soft against the skin from morning to night.",
+    "highlights": [
+      "100% Organic natural hand block prints with carved wooden blocks",
+      "Buttery modal cotton that never feels stiff",
+      "Hypoallergenic natural vegetable dyes",
+      "Easy wash and wear convenience for daily elegance",
+      "Handmade in Kutch, Gujarat"
+    ],
+    "specifications": {
+      "sareeLength": "5.5 Metres",
+      "blousePiece": "Matching Block Printed Modal Cotton Piece",
+      "blouseLength": "0.8 Metre",
+      "blouseIncluded": true,
+      "zariType": "None (Pure Organic Dyes)",
+      "weaveTechnique": "Traditional 16-Stage Ajrakh Hand Block Printing",
+      "occasion": [
+        "Daily Wear",
+        "Office Wear",
+        "Casual Outings",
+        "Travel"
+      ],
+      "washCare": "Machine wash cold with like colors, air dry in shade",
+      "certification": "Craftmark Certified Natural Textile"
+    },
+    "createdAt": "2026-04-05T09:15:00Z"
+  }
+]

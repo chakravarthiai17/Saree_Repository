@@ -1,0 +1,209 @@
+[
+  {
+    "id": "kanchipuram-silk",
+    "name": "Kanchipuram Silk Sarees",
+    "slug": "kanchipuram-silk-sarees",
+    "stateOrigin": "Tamil Nadu",
+    "popularFabric": "Pure Mulberry Silk & Pure Gold Zari",
+    "description": "The queen of South Indian handlooms, woven with triple-twisted silk thread and pure gold-silver zari borders featuring temple motifs.",
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "banarasi",
+    "name": "Banarasi Sarees",
+    "slug": "banarasi-sarees",
+    "stateOrigin": "Uttar Pradesh",
+    "popularFabric": "Katan Pure Silk",
+    "description": "Opulent weaves from the holy city of Varanasi, boasting Mughal-inspired floral jaals, shikargah hunt scenes, and rich brocade work.",
+    "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "mysore-silk",
+    "name": "Mysore Silk Sarees",
+    "slug": "mysore-silk-sarees",
+    "stateOrigin": "Karnataka",
+    "popularFabric": "Pure Crepe Silk",
+    "description": "Famed royal drape of the Wadiyar dynasty crafted with 100% pure silk and 0.65% pure silver with 24-carat gold electroplating.",
+    "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "gadwal",
+    "name": "Gadwal Sarees",
+    "slug": "gadwal-sarees",
+    "stateOrigin": "Telangana",
+    "popularFabric": "Silk Cotton / Sico & Pure Zari",
+    "description": "Unique heritage weave with a lightweight cotton or silk body interlaced seamlessly with rich kuttu-interlocked silk borders.",
+    "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "pochampally-ikat",
+    "name": "Pochampally Ikat Sarees",
+    "slug": "pochampally-ikat-sarees",
+    "stateOrigin": "Telangana",
+    "popularFabric": "Pure Handloom Silk",
+    "description": "GI-tagged double ikat marvels where yarns are tie-dyed with mathematical precision to form hypnotic geometric diamond patterns.",
+    "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "uppada",
+    "name": "Uppada Sarees",
+    "slug": "uppada-sarees",
+    "stateOrigin": "Andhra Pradesh",
+    "popularFabric": "Pure Uppada Silk Jamdani",
+    "description": "Featherlight Jamdani weaving technique from the Godavari coast, featuring gossamer textures and non-structural weft motifs.",
+    "image": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "dharmavaram",
+    "name": "Dharmavaram Sarees",
+    "slug": "dharmavaram-sarees",
+    "stateOrigin": "Andhra Pradesh",
+    "popularFabric": "Heavy Tussar & Mulberry Silk",
+    "description": "Renowned for broad multi-colored borders and rich pallus with intricate peacocks and elephant motifs favored for bridal muhurthams.",
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "chanderi",
+    "name": "Chanderi Sarees",
+    "slug": "chanderi-sarees",
+    "stateOrigin": "Madhya Pradesh",
+    "popularFabric": "Silk Cotton & Zari",
+    "description": "Sheer, airy, gossamer drapes dating back to the Vedic era, embellished with delicate gold buttis and translucent shimmering textures.",
+    "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "paithani",
+    "name": "Paithani Sarees",
+    "slug": "paithani-sarees",
+    "stateOrigin": "Maharashtra",
+    "popularFabric": "Pure Silk with Tapestry Border",
+    "description": "The Maharashtrian royal heirloom characterized by kaleidoscopic borders, oblique square designs, and radiant mor (peacock) pallus.",
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "patola",
+    "name": "Patola Sarees",
+    "slug": "patola-sarees",
+    "stateOrigin": "Gujarat",
+    "popularFabric": "Pure Mulberry Double Ikat",
+    "description": "Patan's legendary double-ikat masterpiece taking months to weave; colors never fade and both front and back are identical.",
+    "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "sambalpuri",
+    "name": "Sambalpuri Sarees",
+    "slug": "sambalpuri-sarees",
+    "stateOrigin": "Odisha",
+    "popularFabric": "Handloom Cotton & Tussar Silk",
+    "description": "Traditional Baandha tie-dye weave showcasing sacred symbols of Shankha (conch), Chakra (wheel), and phula (floral flora).",
+    "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "tussar-silk",
+    "name": "Tussar Silk Sarees",
+    "slug": "tussar-silk-sarees",
+    "stateOrigin": "Bihar",
+    "popularFabric": "Wild Kosa Silk",
+    "description": "Natural gold sheen silk harvested from wild silkworms, celebrated for its rich porous texture and artisanal Madhubani tribal painting.",
+    "image": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "kota-doria",
+    "name": "Kota Doria Sarees",
+    "slug": "kota-doria-sarees",
+    "stateOrigin": "Rajasthan",
+    "popularFabric": "Pure Cotton with Silk Khats",
+    "description": "Delicately woven square grid checks (khats) creating an ethereal, featherlight summer drape seasoned with onion juice and rice paste.",
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "chikankari",
+    "name": "Chikankari Sarees",
+    "slug": "chikankari-sarees",
+    "stateOrigin": "Uttar Pradesh",
+    "popularFabric": "Fine Georgette & Muslin",
+    "description": "The refined Nawabi embroidery of Lucknow featuring tepchi, bakhiya, and phanda hand needlework on whisper-soft pastels.",
+    "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "linen",
+    "name": "Linen Sarees",
+    "slug": "linen-sarees",
+    "stateOrigin": "West Bengal",
+    "popularFabric": "Organic Flax Linen",
+    "description": "Modern breathability infused with sustainable rustic elegance, featuring minimal zari selvedges and artisanal hand-block prints.",
+    "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "cotton",
+    "name": "Cotton Sarees",
+    "slug": "cotton-sarees",
+    "stateOrigin": "West Bengal",
+    "popularFabric": "Pure Mulmul & Jamdani Cotton",
+    "description": "Everyday comfort meets timeless heritage from Bengal Tant, Mangalagiri, to Chettinad breathable handspun cottons.",
+    "image": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "organza",
+    "name": "Organza Sarees",
+    "slug": "organza-sarees",
+    "stateOrigin": "Rajasthan",
+    "popularFabric": "Pure Sheer Silk Organza",
+    "description": "Airy, crisp, and glamorous with delicate hand-painted floral motifs, gota patti scalloped cutwork, and romantic silhouettes.",
+    "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "georgette",
+    "name": "Georgette Sarees",
+    "slug": "georgette-sarees",
+    "stateOrigin": "Gujarat",
+    "popularFabric": "Pure Crepe Georgette",
+    "description": "Graceful drapes that flow effortlessly with every step, adorned with badla zari, delicate sequins, and festive bandhani motifs.",
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "chiffon",
+    "name": "Chiffon Sarees",
+    "slug": "chiffon-sarees",
+    "stateOrigin": "Rajasthan",
+    "popularFabric": "Pure Featherlight Chiffon",
+    "description": "Royal Rajasthani signature drape beloved by Maharani Gayatri Devi, featuring leheriya dye effects and whisper-light flow.",
+    "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "designer",
+    "name": "Designer Sarees",
+    "slug": "designer-sarees",
+    "stateOrigin": "Maharashtra",
+    "popularFabric": "Fusion Silk & Satin Organza",
+    "description": "Contemporary couture creations featuring pre-draped silhouettes, concept belts, sculpted ruffles, and glamorous crystal embellishments.",
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "bridal",
+    "name": "Bridal Sarees",
+    "slug": "bridal-sarees",
+    "stateOrigin": "Pan-India",
+    "popularFabric": "Heavy Bridal Kanjeevaram & Banarasi",
+    "description": "Grand heirloom masterpieces for life's most sacred moments, richly adorned with vermilion reds, real gold zari, and bridal shringar.",
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "party-wear",
+    "name": "Party Wear Sarees",
+    "slug": "party-wear-sarees",
+    "stateOrigin": "Pan-India",
+    "popularFabric": "Crepe Silk, Shimmer Tissue & Net",
+    "description": "Dazzling evening statements tailored for sangeets, cocktail receptions, and festive gala soirees.",
+    "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "daily-wear",
+    "name": "Daily Wear Sarees",
+    "slug": "daily-wear-sarees",
+    "stateOrigin": "Pan-India",
+    "popularFabric": "Pure Mulmul, Modal & Linen",
+    "description": "Effortless, all-day breathable sarees with soft skin feel, easy care, and timeless everyday elegance.",
+    "image": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=800&q=80"
+  }
+]
